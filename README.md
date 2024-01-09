@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yeroc5311
-- 👀 I’m interested in Wii Homebrewing, Minecraft, Learning more LUA.
+- 👀 I’m interested in Oculus™ Quest 2 Homebrewing, Minecraft, Learning more LUA.
 - 🌱 I’m currently learning More things about Earthquakes from xspanger3770's GlobalQuake Program. (https://github.com/xspanger3770)
 - 📫 Reach me via discord: yeroc5311#0000
 - 😄 Pronouns: he/him
