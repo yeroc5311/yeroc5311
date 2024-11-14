@@ -4,6 +4,7 @@
 - 📫 Reach me via discord: yeroc5311#0000
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I tried Roblox exploiting before it got patched and learned a little bit of LUA coding!
+- Getting into Bash, thats the only thing im self learning when it comes to scripting.
   
 <!---
 yeroc5311/yeroc5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
