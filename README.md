@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @yeroc5311
-- 👀 I’m interested in Oculus™ Quest 2 Homebrewing, Minecraft, Learning more LUA.
+- 👀 I’m interested in pretty much anyting Linux, or AI related!
 - 🌱 I’m currently learning More things about Earthquakes from xspanger3770's GlobalQuake Program. (https://github.com/xspanger3770)
 - 📫 Reach me via discord: yeroc5311#0000
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I tried Roblox exploiting before it got patched and learned a little bit of LUA coding!
 - Getting into Batch, thats the only thing im self learning when it comes to scripting.
-- 🌐 Browser (as of Apr 4th, 25'): Firefox
+- 🌐 Browser (as of Apr 4th, 25'): FireDragon or Zen Browser
   
 <!---
 yeroc5311/yeroc5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
