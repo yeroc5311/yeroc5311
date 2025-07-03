@@ -5,7 +5,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I tried Roblox exploiting before it got patched and learned a little bit of LUA coding!
 - Getting into Batch, thats the only thing im self learning when it comes to scripting.
-- 🌐 Browser (as of Apr 4th, 25'): FireDragon or Zen Browser
+- 🌐 Browser (as of Apr 4th, 25'): Zen Browser
   
 <!---
 yeroc5311/yeroc5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
