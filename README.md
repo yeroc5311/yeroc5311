@@ -1,11 +1,9 @@
-- 👋 Hi, I’m @yeroc5311
-- 👀 I’m interested in pretty much anyting Linux, or AI related!
-- 🌱 I’m currently learning More things about Earthquakes from xspanger3770's GlobalQuake Program. (https://github.com/xspanger3770)
-- 📫 Reach me via discord: yeroc5311#0000
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I tried Roblox exploiting before it got patched and learned a little bit of LUA coding!
-- Getting into Batch, thats the only thing im self learning when it comes to scripting.
-- 🌐 Browser (as of Apr 4th, 25'): Zen Browser
+- hi, @yeroc5311 here.
+- i'm interested in pretty much anything Linux, or AI related!
+- i'm currently learning More things about earthquakes from @xspanger3770's GlobalQuake program. (https://github.com/xspanger3770)
+- reach me via discord: yeroc5311
+- pronouns: he/him, fine with anything else
+- fun fact: I tried Roblox exploiting before it got patched and learned a little bit of LUA coding!
   
 <!---
 yeroc5311/yeroc5311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
